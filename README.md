@@ -55,8 +55,10 @@ I cleaned the data after scraping in order to use it in my models. Most of the p
 - Created columns for simplified job title, seniority, and description length
 
 ## EDA
-Explored data distributions, values counts, and various pivots. Below are some examples of my findings. 
-- ***image placeholder***
+Explored data distributions, values counts, and various pivots. Below are some examples of my findings. \
+![alt text](https://github.com/nkrajew/ds_salary_proj/blob/master/images/pivot.PNG "Pivot Table")
+![alt text](https://github.com/nkrajew/ds_salary_proj/blob/master/images/corr_2.PNG "Correlations")
+![alt text](https://github.com/nkrajew/ds_salary_proj/blob/master/images/state_jobs_resize.PNG "Correlations")
 
 ## Model Building
 #### Data Manipulation 
